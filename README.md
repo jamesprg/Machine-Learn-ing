@@ -1,7 +1,7 @@
 # Machine-Learn-ing
 Space for materials used during learning/researching machine learning methods
 
-Courses taken...
+### Courses
 
 - __1__ - [Machine Learning A-Z™: Hands-On Python & R In Data Science
 ](https://www.udemy.com/course/machinelearning/)
